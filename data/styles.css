@@ -9,6 +9,8 @@
 }
 ._图片_ {
 }
+.button {
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -51,6 +53,10 @@
   text-align:left;
 }
 ._文本段落 {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
   text-align:left;
 }
 .tree_node {
