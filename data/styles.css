@@ -84,6 +84,16 @@
 }
 .image1 {
 }
+.el-button-primary {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.checkbox-uncheck {
+}
 .paragraph {
   text-align:left;
 }
@@ -100,12 +110,18 @@
 }
 .box_2 {
 }
+.checkbox-check {
+}
 .iconfont {
   font-family:'iconfont';
   font-weight:400;
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+.icon {
+}
+.menu_item {
 }
 .heading_2 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
